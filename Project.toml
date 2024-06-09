@@ -1,0 +1,7 @@
+name = "MyPackage"
+uuid = "9c3292bb-b024-49ca-aa1c-2675ad37cd6e"
+authors = ["Marleen Lukei marleen.lukei@bertelsmann.de>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
