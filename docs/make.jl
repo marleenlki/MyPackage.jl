@@ -19,5 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/marleenlki/MyPackage.jl",
-    devbranch="master",
+    devbranch="main",
 )
