@@ -9,7 +9,7 @@ makedocs(;
     sitename="MyPackage.jl",
     format=Documenter.HTML(;
         canonical="https://marleenlki.github.io/MyPackage.jl",
-        edit_link="master",
+        edit_link="main",
         assets=String[],
     ),
     pages=[
